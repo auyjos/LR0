@@ -1,0 +1,7 @@
+# Gramática simple
+S -> A B
+A -> a
+B -> b
+
+# Items
+S -> . A B
